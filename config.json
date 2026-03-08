@@ -1,8 +1,8 @@
 {
   "app": {
     "name": "LifeSync",
-    "latest_version": "2.1.9",
-    "min_supported_version": "2.1.10",
+    "latest_version": "2.1.10",
+    "min_supported_version": "2.1.8",
     "force_update": false,
     "update_message": "A new version of LifeSync is available. Please update to continue.",
     "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69ad0fb9000e678575ea/download?project=69aa6e89000b08e67a76&mode=admin"
@@ -36,4 +36,5 @@
     "website": "https://www.edizo.in"
   }
 }
+
 
