@@ -1,11 +1,11 @@
 {
   "app": {
     "name": "LifeSync",
-    "latest_version": "2.1.12",
+    "latest_version": "3.0.0",
     "min_supported_version": "2.1.8",
     "force_update": false,
     "update_message": "fix the expense  and income saving to database.",
-    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69ad1fdf0028755ce986/download?project=69aa6e89000b08e67a76&mode=admin"
+    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69aed10c001be02940c5/download?project=69aa6e89000b08e67a76&mode=admin"
   },
   "server": {
     "api_base_url": "https://api.edizo.in/v1",
@@ -36,6 +36,7 @@
     "website": "https://www.edizo.in"
   }
 }
+
 
 
 
