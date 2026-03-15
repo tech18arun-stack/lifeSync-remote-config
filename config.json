@@ -1,11 +1,11 @@
 {
   "app": {
     "name": "LifeSync",
-    "latest_version": "3.1.0",
+    "latest_version": "3.2.0",
     "min_supported_version": "2.1.8",
     "force_update": false,
     "update_message": "add new subscription maintain features.",
-    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69b13101000272e9ac48/view?project=69aa6e89000b08e67a76&mode=admin"
+    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69b655c40029d48be8f8/download?project=69aa6e89000b08e67a76&mode=admin"
   },
   "server": {
     "api_base_url": "https://api.edizo.in/v1",
