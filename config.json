@@ -1,11 +1,11 @@
 {
   "app": {
     "name": "LifeSync",
-    "latest_version": "4.3.0",
-    "min_supported_version": "2.1.8",
+    "latest_version": "4.4.0",
+    "min_supported_version": "3.0.0",
     "force_update": false,
     "update_message": "A new version of LifeSync is available with automated expense tracking and mood/habit logging! 🚀",
-    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69bae8ee0026834167cc/download?project=69aa6e89000b08e67a76&mode=admin"
+    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69baef1f001481855d69/download?project=69aa6e89000b08e67a76&mode=admin"
   },
   "server": {
     "api_base_url": "https://api.edizo.in/v1",
