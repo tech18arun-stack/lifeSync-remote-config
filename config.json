@@ -21,7 +21,7 @@
     "habit_tracker_enabled": true,
     "mood_tracker_enabled": true,
     "ai_insights_enabled": true,
-    "premium_monthly_cost": 49,
+    "premium_monthly_cost": 29,
     "razorpay_key": "rzp_live_SSlQnbynKOMOSg"
   },
   "ads": {
