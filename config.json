@@ -1,11 +1,11 @@
 {
   "app": {
     "name": "LifeSync",
-    "latest_version": "4.6.0",
+    "latest_version": "4.6.4",
     "min_supported_version": "3.0.0",
     "force_update": false,
     "update_message": "A stunning new Premium update! Experience fluid glassmorphism UI, animated circular balance dials, and unlock premium AI features by watching short ads! 🚀",
-    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69bcaf600030ed9f34cc/download?project=69aa6e89000b08e67a76&mode=admin"
+    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69bce9bb00052026524a/download?project=69aa6e89000b08e67a76&mode=admin"
   },
   "server": {
     "api_base_url": "https://api.edizo.in/v1",
