@@ -1,11 +1,13 @@
 {
   "app": {
     "name": "LifeSync",
-    "latest_version": "4.6.4",
+    "latest_version": "4.7.4",
     "min_supported_version": "3.0.0",
     "force_update": false,
     "update_message": "A stunning new Premium update! Experience fluid glassmorphism UI, animated circular balance dials, and unlock premium AI features by watching short ads! 🚀",
-    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69bce9bb00052026524a/download?project=69aa6e89000b08e67a76&mode=admin"
+    "download_url": "https://api.edizo.in/v1/storage/buckets/69acfcf60024404afaa4/files/69c78a37001b9cbf8163/download?project=69aa6e89000b08e67a76&mode=admin",
+    "indus_store_url": "https://indusappstore.com/apps/lifesync",
+    "play_store_url": ""
   },
   "server": {
     "api_base_url": "https://api.edizo.in/v1",
@@ -24,7 +26,21 @@
     "premium_monthly_cost": 29,
     "premium_ultra_monthly_cost": 49,
     "premium_yearly_cost": 299,
-    "razorpay_key": "rzp_live_SSlQnbynKOMOSg"
+    "razorpay_key": "rzp_live_SSlQnbynKOMOSg",
+    "plans": {
+      "basic": {
+        "features": ["Manual Expense Tracking", "Budget Management", "Basic AI Insights (with ads)"],
+        "has_ads": true
+      },
+      "premium": {
+        "features": ["Ad-free Experience", "SMS Automated Tracking", "Premium Glassmorphic UI", "All AI Features", "Cloud Sync"],
+        "has_ads": false
+      },
+      "ultra": {
+        "features": ["Custom App Icon", "Interactive Circular Dials", "Real-time Money Tracking", "Advanced Financial Activity Charts", "Priority 24/7 Support"],
+        "has_ads": false
+      }
+    }
   },
   "ads": {
     "startio_enabled": true,
